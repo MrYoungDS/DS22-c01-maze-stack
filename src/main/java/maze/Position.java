@@ -1,8 +1,9 @@
+package maze;
+
 /**
- * Represents a single position in a maze of characters.
- *
  * @author Lewis and Chase
- * @version 4.0
+ *
+ * Represents a single position in a maze of characters.
  */
 public class Position
 {
