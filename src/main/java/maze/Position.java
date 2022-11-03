@@ -54,4 +54,10 @@ public class Position
     {
         y = a;
     }
+
+    @Override
+    public String toString()
+    {
+        return "(" + getx() + ", " + gety() + ")";
+    }
 }
